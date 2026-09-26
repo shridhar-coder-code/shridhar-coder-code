@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (daily at midnight)
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-  # Run on push to main branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -16,3 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Enable LeetCode Plugin
+          plugin_leetcode: yes
+          plugin_leetcode_user: shridhar024
+          plugin_leetcode_sections: solved, calendar
