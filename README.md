@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/shridhar024)](https://leetcode.com/shridhar024)
 <!--
 **shridhar-coder-code/shridhar-coder-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
