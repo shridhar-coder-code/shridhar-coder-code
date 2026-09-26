@@ -1,7 +1,15 @@
 ## Hi there 👋
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/shridhar024)](https://leetcode.com/shridhar024)
+
+<p align="center">
+  <img src="https://leetcode-stats-twenty.vercel.app/get-profile-details?username=shridhar024&theme=dark" alt="LeetCode Activity Calendar" />
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="LeetCode Contribution Graph" />
+</p>
+
 <!--
-**shridhar-coder-code/shridhar-coder-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shridhar-coder-code/shridhar-coder-code** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
