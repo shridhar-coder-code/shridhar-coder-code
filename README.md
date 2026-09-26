@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="LeetCode Contribution Graph" />
+  <img src="https://leetcode-badge.vercel.app/api/users/shridhar5?theme=dark&hidden=solved" alt="LeetCode Activity" />
 </p>
 
 <!--
